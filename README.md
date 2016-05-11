@@ -1,4 +1,4 @@
-Flight Search
+Flight Search [![Build Status](https://travis-ci.org/miguelortegarodriguez/flightsearch.svg?branch=master)](https://travis-ci.org/miguelortegarodriguez/flightsearch)
 =============
 
 The entry Point of the app is the FlightSearchApp object, where all the dependencies are injected.
