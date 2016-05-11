@@ -3,6 +3,7 @@ Flight Search
 
 The entry Point of the app is the FlightSearchApp object, where all the dependencies are injected.
 
+* Implementation details
 A search is represented by the SearchRequest object and the result is a list of SearchResult objects.
 
 The SearchService is the responsible of orchestrate the logic of finding the flights and calculate the price calling to the FlightRepository and the PriceCalculator.
